@@ -92,6 +92,7 @@ memories = [
             "https://www.dropbox.com/scl/fi/ps7try01gr0q5xaamb6xn/IMG-20260516-WA0012.jpg?rlkey=vf23ce1geahala42dgpvwnc9k&st=mfs3y1mb&dl=1",
             "https://www.dropbox.com/scl/fi/6bv6aay2dduno3dbkq36d/IMG-20260519-WA0005.jpg?rlkey=7kp6ptebjhvszee9rwd7pvot4&st=64c4239m&dl=1",
         ],
+        "story": "Ahin sundar nahi lagait chi."
     },
 
     {
@@ -108,8 +109,9 @@ memories = [
             "https://www.dropbox.com/scl/fi/nr8rnjhy0oeicdbafwled/Screenshot_2026-02-13-15-36-52-54_6012fa4d4ddec268fc5c7112cbb265e7.jpg?rlkey=xazqmb5cvl1r7z8hpcrhxc0jg&st=k83qnsnt&dl=1",
             "https://www.dropbox.com/scl/fi/ga9xfvito1lvqcgypbnbq/Screenshot_2026-02-17-14-52-10-17_6012fa4d4ddec268fc5c7112cbb265e7.jpg?rlkey=3wgrfq5dkkiqmgtk0juhxdyp2&st=69ol8n64&dl=1",
             "https://www.dropbox.com/scl/fi/1u48i4vrv5eougj7fz15g/Screenshot_2026-04-14-00-52-10-60_6012fa4d4ddec268fc5c7112cbb265e7.jpg?rlkey=caa9gizqh2g50nr76hs38ae8o&st=r8ktc5in&dl=1",
-        ]
-    }
+        ],
+        "story": "Ahin sundar lagait chi."
+    },
 ]
 
 # Navigation (Mobile-friendly with session state)
