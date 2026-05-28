@@ -83,6 +83,7 @@ memories = [
     },
     # Add more memories here
     {
+        "date": "Random"
         "title: Ahank katek sundar bujhe chi"
         "images": [
             "https://www.dropbox.com/scl/fi/dgtmyakxnwvs9e32nlhxx/IMG-20260331-WA0004.jpg?rlkey=zjc7tmok4u8owls66dge8cxbj&st=o7xmm0pn&dl=1",
@@ -94,6 +95,7 @@ memories = [
     },
 
     {
+        "date": "random"
         "title: Ahank vaastav me ketek sundar chi"
         "images": [
             "https://www.dropbox.com/scl/fi/2cikegn7uucstmqajfh5a/IMG-20260203-WA0008.jpg?rlkey=41kmu77wr0b410nm2626y7mdu&st=m0o9dz05&dl=1",
